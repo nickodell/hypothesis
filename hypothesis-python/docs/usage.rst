@@ -55,6 +55,7 @@ and was used by `more than 4% of Python users surveyed by the PSF in 2020
 * `pyudev <https://github.com/pyudev/pyudev>`_
 * `qutebrowser <https://github.com/qutebrowser/qutebrowser>`_
 * `RubyMarshal <https://github.com/d9pouces/RubyMarshal>`_
+* `SciPy <https://github.com/scipy/scipy>`_
 * `Segpy <https://github.com/sixty-north/segpy>`_
 * `sgkit <https://github.com/pystatgen/sgkit>`_
 * `simoa <https://github.com/andsor/pysimoa>`_
